@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 8871,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/setup-azure-devops-agent-pools-and-agent-on-windows-server/master/setDevOpsAgentPool.ps1",
+    "DownloadCount": 543,
+    "Id": "Setup-Azure-DevOps-Agent-dfa6f49a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 116,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2020-3-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is sample code modified from DSC configuration to use used as a imperative script.There are samples of:1) Authenticating to Azure DevOps from PowerShell with a PAT token2) Calling the api to test if the pool exists.3) Creating the pool if it doesn't exist.4) Downloading the",
+    "Title": "Setup Azure DevOps Agent Pools and Agent on Windows Server",
+    "UpdatedDate": "2020-3-15T00:00:00",
+    "Url": "https://github.com/azureautomation/setup-azure-devops-agent-pools-and-agent-on-windows-server",
+    "UserTags": "AzureDevOps, Agent Pool, DevOps Agent"
+}
